@@ -1,0 +1,5 @@
+INFO train.py(104): --------------------------µÚ1ÂÖÑµÁ·--------------------------
+INFO train.py(163): step: 700/780, loss_total: 14.9242, loss_in: 0.3203, loss_grad: 0.1849, loss_ssim: 0.7094, loss_tra: 0.3402, lr: 0.0010, time: 1.04, eta: 0:00:01
+INFO train.py(163): step: 1400/780, loss_total: 11.2757, loss_in: 0.1857, loss_grad: 0.1933, loss_ssim: 0.5742, loss_tra: 0.0720, lr: 0.0010, time: 2.19, eta: -1 day, 23:59:54
+INFO train.py(163): step: 2100/780, loss_total: 11.0732, loss_in: 0.1695, loss_grad: 0.1903, loss_ssim: 0.5226, loss_tra: 0.0816, lr: 0.0010, time: 3.34, eta: -1 day, 23:59:48
+INFO train.py(163): step: 2800/780, loss_total: 10.7947, loss_in: 0.1902, loss_grad: 0.1701, loss_ssim: 0.5960, loss_tra: 0.1239, lr: 0.0010, time: 2.16, eta: -1 day, 23:59:43
